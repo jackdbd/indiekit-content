@@ -1,6 +1,9 @@
 ---
 date: 2024-02-20T21:46:03.039+01:00
+updated: 2024-02-20T21:46:15.659+01:00
 visibility: public
+syndication:
+  - https://fosstodon.org/@jackdbd/111965764011670931
 ---
 
 Utility-first CSS is exception-first CSS.
