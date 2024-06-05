@@ -4,7 +4,9 @@ title: Hello World!!!
 summary: A test article
 category: test
 visibility: public
-updated: 2024-06-05T16:14:46.461+01:00
+updated: 2024-06-05T16:15:58.595+01:00
+syndication:
+  - https://fosstodon.org/@jackdbd/112564670204197984
 ---
 
 # Hello world!!!
