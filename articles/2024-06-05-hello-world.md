@@ -2,9 +2,11 @@
 date: 2024-06-05T11:39:49.543+01:00
 title: Hello World!!!
 summary: A test article
-category: test
+category:
+  - test
+  - prova
 visibility: public
-updated: 2024-06-05T16:15:58.595+01:00
+updated: 2024-06-05T16:39:35.288+01:00
 syndication:
   - https://fosstodon.org/@jackdbd/112564670204197984
 ---
